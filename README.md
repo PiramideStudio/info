@@ -23,3 +23,25 @@ https://piramide.zapto.org/iplist.txt
 https://piramide.zapto.org/iplist-pcsnet.txt
 
 https://sites.google.com/view/pcsnetwork/homecraftsoft2000
+
+🧱️🚫 Auto Post BadIPs - Dinamic (×4 per day update) and Static List (×1 per week update):
+
+https://psmedia.mywire.org/malware.txt
+https://psmedia.mywire.org/malwarebruteforce.txt
+https://psmedia.mywire.org/malwarehosting.txt
+https://psmedia.mywire.org/malwareserver.txt
+
+https://psmedia.mywire.org/cms.txt
+https://psmedia.mywire.org/ip.txt
+https://psmedia.mywire.org/iplist-pcsnet.txt
+https://psmedia.mywire.org/iplist.txt
+https://psmedia.mywire.org/malwarenetworks.txt
+https://psmedia.mywire.org/ninjafirewall.txt
+https://psmedia.mywire.org/recidive.txt
+
+https://piramide.zapto.org/iplist-pcsnet.txt
+https://piramide.zapto.org/iplist.txt
+https://perc.ddns.net/iplist.txt
+https://perc.ddns.net/iplist-pcsnet.txt
+https://perc.ddns.net/ip.txt
+https://perc.ddns.net/cms.txt
