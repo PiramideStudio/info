@@ -26,36 +26,34 @@ https://sites.google.com/view/pcsnetwork/homecraftsoft2000
 
 🧱️🚫 Auto Post BadIPs - Dinamic (×4 per day update) and Static List (×1 per week update):
 
-https://psmedia.mywire.org/malware.txt 
+[https://psmedia.mywire.org/ip.blacklist
 
-https://psmedia.mywire.org/malwarebruteforce.txt 
+https://psmedia.mywire.org/iplist-abuseip.txt
 
-https://psmedia.mywire.org/malwarehosting.txt 
+https://psmedia.mywire.org/iplist-blocklistde.txt
 
-https://psmedia.mywire.org/malwareserver.txt
+https://psmedia.mywire.org/iplist-cms.txt
 
-https://psmedia.mywire.org/cms.txt 
+https://psmedia.mywire.org/iplist-combined.txt
 
-https://psmedia.mywire.org/ip.txt 
+https://psmedia.mywire.org/iplist-enhanced.txt
 
-https://psmedia.mywire.org/iplist-pcsnet.txt 
+https://psmedia.mywire.org/iplist-ipsum.txt
 
-https://psmedia.mywire.org/iplist.txt 
+https://psmedia.mywire.org/iplist-malware.txt
 
-https://psmedia.mywire.org/malwarenetworks.txt 
+https://psmedia.mywire.org/iplist-pcsnet.txt
 
-https://psmedia.mywire.org/ninjafirewall.txt 
+https://psmedia.mywire.org/iplist-server.txt
 
-https://psmedia.mywire.org/recidive.txt
+https://psmedia.mywire.org/iplist-shadow.txt
 
-https://piramide.zapto.org/iplist-pcsnet.txt 
+https://psmedia.mywire.org/iplist-sum.txt
 
-https://piramide.zapto.org/iplist.txt 
+https://psmedia.mywire.org/iplist-world.txt
 
-https://perc.ddns.net/iplist.txt 
+https://psmedia.mywire.org/iplist.txt
 
-https://perc.ddns.net/iplist-pcsnet.txt 
+https://psmedia.mywire.org/ips-cms.txt
 
-https://perc.ddns.net/ip.txt 
-
-https://perc.ddns.net/cms.txt
+https://psmedia.mywire.org/iplist-emergingthreats.txt]
