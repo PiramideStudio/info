@@ -24,7 +24,7 @@ https://piramide.zapto.org/iplist-pcsnet.txt
 
 https://sites.google.com/view/pcsnetwork/homecraftsoft2000
 
-🧱️🚫 Auto Post BadIPs - Dinamic (×4 per day update) and Static List (×1 per week update):
+🧱️🚫 Auto Post BadIPs - Dinamic SecComp. (×4 per day update) and Static internal List (×6 per day):
 
 https://psmedia.mywire.org/ip.blacklist
 
