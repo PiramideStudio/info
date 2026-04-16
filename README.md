@@ -1,7 +1,7 @@
 # info - BadIPs - Media Portal PCSNET
 Info Softwares - Windows / Linux
 
-https://pcsnet.myftp.org/public.php
+https://pcsnet.myftp.org/
 
 # BadIPs regular posts
 
