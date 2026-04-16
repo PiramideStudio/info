@@ -26,7 +26,7 @@ https://sites.google.com/view/pcsnetwork/homecraftsoft2000
 
 🧱️🚫 Auto Post BadIPs - Dinamic (×4 per day update) and Static List (×1 per week update):
 
-[https://psmedia.mywire.org/ip.blacklist
+https://psmedia.mywire.org/ip.blacklist
 
 https://psmedia.mywire.org/iplist-abuseip.txt
 
@@ -56,4 +56,4 @@ https://psmedia.mywire.org/iplist.txt
 
 https://psmedia.mywire.org/ips-cms.txt
 
-https://psmedia.mywire.org/iplist-emergingthreats.txt]
+https://psmedia.mywire.org/iplist-emergingthreats.txt
